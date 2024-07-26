@@ -1,4 +1,8 @@
 import numy
 import pandas as pd
 
+<<<<<<< HEAD
 import matplotlib.pyplot as plt
+=======
+import seaborn as sns
+>>>>>>> main
